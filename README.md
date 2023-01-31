@@ -1,0 +1,2 @@
+# paysera
+Subdomain Takeover
